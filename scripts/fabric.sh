@@ -2,6 +2,8 @@ export GOROOT=/usr/local/go
 export PATH=$PATH:$GOROOT/bin
 export GOPATH=/home/vagrant/gopath
 
+###
+
 echo "GOPATH=$GOPATH"
 echo "GOROOT=$GOROOT"
 
